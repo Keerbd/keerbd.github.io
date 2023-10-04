@@ -1,0 +1,42 @@
+    /* Estilos CSS para la página */
+body {
+  background-image: url(https://img.freepik.com/vector-gratis/fondo-patron-animal-transparente-ilustracion-vector-impresion-pata-linda_53876-156206.jpg?w=826&t=st=1696241720~exp=1696242320~hmac=273a5fb7d98889f1563cc8c1130d528c3765234c0a236729b94e5afc8956ca42);
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+h1 {
+      color: Teal;
+font-family: Cambria Rounded;
+font-size: 80px;
+    }
+h2 {
+      color: Black;
+font-size: 30px;
+    }
+h3{
+      color: Teal;
+font-size: 25px;
+    }
+h4{
+      color: Black;
+font-size: 20px;
+    }
+    table {
+      border-collapse: collapse;
+      width: 80%;
+      margin: 20px auto;
+background-color: Wheat;
+    }
+    table, th, td {
+      border: 1px solid #666;
+    }
+    th, td {
+      padding: 10px;
+}
+th{
+background-color: SaddleBrown;
+Color:White;
+}
+    img {
+      max-width: 30%;
+      height: 4%;
